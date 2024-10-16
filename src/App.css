@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-ul li{
+    padding: 0 0.5rem;
+}
+.nav-ul a{
+    font-size: 1rem;
+    color: #000 !important;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+
+}
+.btn1{
+    border: 0;
+    padding: 0.5rem 1.8rem;
+    color: #fff;
+    background-color: #000;
+}
+.btn2{
+    border: 0;
+    padding: 0.5rem 1.8rem;
+    color: #fff;
+    background-color: red;
+}
