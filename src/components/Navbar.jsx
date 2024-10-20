@@ -52,7 +52,7 @@ export default function Navbar() {
                 </li>
               </ul>
             </li>
-            
+
             <li className="nav-item">
               <Link className="nav-link " to="/services">
                 Services
@@ -73,15 +73,19 @@ export default function Navbar() {
                 More
               </Link>
             </li>
-            
 
             <div className="mx-3">
-              <button type="button" className="btn1  mx-2">
-                Login
-              </button>
-              <button type="button" className="btn2 mx-2">
-                Sign Up
-              </button>
+              <Link to="/signup">
+                <button type="button" className="btn2 mx-2">
+                  Sign Up
+                </button>
+              </Link>
+
+              <Link to="/signin">
+                <button type="button" className="btn2 mx-2">
+                  Sign In
+                </button>
+              </Link>
             </div>
 
             <div className="form-check form-switch  ">

@@ -13,6 +13,8 @@ import Home from './components/Home'
 import Follow from './components/Follow'
 import Education from './components/Education'
 import Experience from './components/Experience'
+import Signup from './components/Signup'
+import Signin from './components/Signin'
 
 
 
@@ -32,10 +34,15 @@ function App() {
       <Route  path='/portfolio' element={<Portfolio/>} />
       <Route  path='/contact' element={<Contact/>} />
       <Route  path='/more' element={<More/>} />
+      <Route  path='/signup' element={<Signup/>} />
+      <Route  path='/signin' element={<Signin/>} />
+
+
       {/* ************************************************* */}
       <Route  path='/*' element={<NotFound/>} />
       
    </Routes>
+   
    <Footer/>
    </div>
   )
