@@ -1,17 +1,16 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
 
-
-export default function About() {
+function Product() {
   return (
+    
     <div className="container my-5 py-5 text-center ">
-      <h1>Mobile Samsung</h1>
+      <h1>Product Laptop</h1>
       <div className="row py-5 my-5">
         <div className="col-md-3">
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -32,7 +31,7 @@ export default function About() {
         <div className="col-md-3">
         <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -52,7 +51,7 @@ export default function About() {
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -74,7 +73,7 @@ export default function About() {
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -98,7 +97,7 @@ export default function About() {
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -119,7 +118,7 @@ export default function About() {
         <div className="col-md-3">
         <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -139,7 +138,7 @@ export default function About() {
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -161,7 +160,7 @@ export default function About() {
           
             <div className="card" style={{ width: "18rem" }}>
               <img
-                src="https://images.unsplash.com/photo-1678958274412-563119ec18ab?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2Ftc3VuZyUyMGdhbGF4eSUyMHMyMyUyMHVsdHJhfGVufDB8fDB8fHww"
+                src="https://images.unsplash.com/photo-1719937206158-cad5e6775044?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D"
                 className="card-img-top"
                 alt="..."
               />
@@ -181,5 +180,7 @@ export default function About() {
         </div>
       </div>
     </div>
-  )
+  );
 }
+
+export default Product;

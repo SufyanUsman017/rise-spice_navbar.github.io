@@ -11,10 +11,12 @@ import NotFound from './components/NotFound'
 import More from './components/More'
 import Home from './components/Home'
 import Follow from './components/Follow'
-import Education from './components/Education'
 import Experience from './components/Experience'
 import Signup from './components/Signup'
 import Signin from './components/Signin'
+import Product from './components/Product'
+import Welcome from './components/Welcome'
+
 
 
 
@@ -23,17 +25,20 @@ function App() {
     <div>
    <Navbar />
    <Routes>
+      
       <Route  path='/' element={<Home />} />
       <Route  path='/about' element={<About/>} />
       {/* ************************************************** */}
       <Route  path='/follow' element={<Follow/>} />
-      <Route  path='/education' element={<Education/>} />
+      <Route  path='/product' element={<Product/>} />
       <Route  path='/experience' element={<Experience/>} />
       {/* ************************************************* */}
       <Route  path='/services' element={<Services/>} />
       <Route  path='/portfolio' element={<Portfolio/>} />
       <Route  path='/contact' element={<Contact/>} />
       <Route  path='/more' element={<More/>} />
+      <Route  path='/' element={<Welcome />} />
+      
       <Route  path='/signup' element={<Signup/>} />
       <Route  path='/signin' element={<Signin/>} />
 

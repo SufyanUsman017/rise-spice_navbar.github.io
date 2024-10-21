@@ -32,7 +32,7 @@ export default function Navbar() {
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
-                About
+                Service
               </a>
               <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li className="nav-item">
@@ -41,8 +41,8 @@ export default function Navbar() {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link " to="/education">
-                    Education
+                  <Link className="nav-link " to="/product">
+                    Product
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -54,8 +54,8 @@ export default function Navbar() {
             </li>
 
             <li className="nav-item">
-              <Link className="nav-link " to="/services">
-                Services
+              <Link className="nav-link " to="/about">
+                About
               </Link>
             </li>
             <li className="nav-item">
@@ -102,10 +102,7 @@ export default function Navbar() {
               </label>
             </div>
           </ul>
-          {/* <form className="d-flex">
-          <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-          <button className="btn btn-outline-success" type="submit">Search</button>
-        </form> */}
+          
         </div>
         {/* End Menu */}
       </div>
