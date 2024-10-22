@@ -17,7 +17,7 @@ function Experience() {
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
   <div className="card-footer text-muted">
-    2 days ago
+    1 Year ... in Progress
   </div>
         </div>
             
@@ -35,7 +35,7 @@ function Experience() {
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
   <div className="card-footer text-muted">
-    2 days ago
+    1 Year ... in Progress
   </div>
         </div>
             
@@ -53,7 +53,7 @@ function Experience() {
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
     <div className="card-footer text-muted">
-      2 days ago
+      1 Year ... in Progress
     </div>
           </div>
               
@@ -71,7 +71,7 @@ function Experience() {
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
     <div className="card-footer text-muted">
-      2 days ago
+      1 Year ... in Progress
     </div>
           </div>
               
@@ -91,7 +91,7 @@ function Experience() {
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
   <div className="card-footer text-muted">
-    2 days ago
+    1 Year ... in Progress
   </div>
         </div>
             
@@ -109,7 +109,7 @@ function Experience() {
     <a href="#" className="btn btn-primary">Go somewhere</a>
   </div>
   <div className="card-footer text-muted">
-    2 days ago
+    1 Year ... in Progress
   </div>
         </div>
             
@@ -127,7 +127,7 @@ function Experience() {
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
     <div className="card-footer text-muted">
-      2 days ago
+      1 Year ... in Progress
     </div>
           </div>
               
@@ -145,7 +145,7 @@ function Experience() {
       <a href="#" className="btn btn-primary">Go somewhere</a>
     </div>
     <div className="card-footer text-muted">
-      2 days ago
+      1 Year ... in Progress
     </div>
           </div>
               

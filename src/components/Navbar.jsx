@@ -6,7 +6,8 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container py-2">
         <h3 className="chng">
-          <span> Rice &</span> Spice
+          <span> Ecommerce &</span> Web
+          {/* <span> Rice &</span> Spice */}
         </h3>
         <button
           className="navbar-toggler"

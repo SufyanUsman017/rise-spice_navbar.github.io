@@ -9,7 +9,8 @@ export default function Footer() {
           <div className="col-md-6 col-lg-5 col-12 ft-1">
             <h3>
               
-              <span> Rice &</span> Spice
+              {/* <span> Ecommerce &</span> Web */}
+              <span> Ecommerce &</span> Web
             </h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem
@@ -79,7 +80,9 @@ export default function Footer() {
         </div>
       </div>
       <div className="Last-footer">
-        <p>@ Design By Rice & Spice</p>
+        {/* <p>@ Design By Rice & Spice</p> */}
+        <p>@ Design By Ecommerce & Web</p>
+
       </div>
     </div>
   );

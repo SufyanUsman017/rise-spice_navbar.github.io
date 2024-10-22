@@ -16,7 +16,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -37,7 +37,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -57,7 +57,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -79,7 +79,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -103,7 +103,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -124,7 +124,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -144,7 +144,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
@@ -166,7 +166,7 @@ export default function About() {
                 alt="..."
               />
               <div className="card-body">
-                <h5 className="card-title">Lenovo</h5>
+                <h5 className="card-title">Ultra S24</h5>
                 <p className="card-text">
                   Some quick example text to build on the card title and make up
                   the bulk of the card's content.
