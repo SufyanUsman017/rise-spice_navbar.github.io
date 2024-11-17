@@ -15,7 +15,7 @@ import Experience from './components/Experience'
 import Signup from './components/Signup'
 import Signin from './components/Signin'
 import Product from './components/Product'
-import Welcome from './components/Welcome'
+// import Welcome from './components/Welcome'
 
 
 
@@ -25,7 +25,8 @@ function App() {
     <div>
    <Navbar />
    <Routes>
-      
+
+       {/* <Route  path='/' element={<Welcome />} /> */}
       <Route  path='/' element={<Home />} />
       <Route  path='/about' element={<About/>} />
       {/* ************************************************** */}
@@ -37,7 +38,7 @@ function App() {
       <Route  path='/portfolio' element={<Portfolio/>} />
       <Route  path='/contact' element={<Contact/>} />
       <Route  path='/more' element={<More/>} />
-      <Route  path='/' element={<Welcome />} />
+      {/* <Route  path='/' element={<Welcome />} /> */}
       
       <Route  path='/signup' element={<Signup/>} />
       <Route  path='/signin' element={<Signin/>} />

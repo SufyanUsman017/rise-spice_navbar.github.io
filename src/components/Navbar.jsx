@@ -24,6 +24,11 @@ export default function Navbar() {
         <div className="collapse navbar-collapse  " id="navbarSupportedContent">
           {/* SupportedContent */}
           <ul className="navbar-nav ms-auto nav-ul align-items-center ">
+          <li className="nav-item">
+                  {/* <Link className="nav-link " to="/home">
+                    Home
+                  </Link> */}
+                </li>
             <li className="nav-item dropdown">
               <a
                 className="nav-link dropdown-toggle"
